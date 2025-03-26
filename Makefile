@@ -10,9 +10,6 @@ install_deps:
 	$(ENV_DIR)/bin/pip install --upgrade pip
 	$(ENV_DIR)/bin/pip install -r requirements.txt
 
-activate_env:
-	@echo "Run this command to activate the virtual environment:"
-	@echo "source $(ENV_DIR)/bin/activate"
 
 # === FastAPI Server ===
 run_server:
