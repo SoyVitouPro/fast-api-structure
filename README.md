@@ -21,7 +21,7 @@ This is a professional backend project using **FastAPI**, **MySQL**, **Docker**,
 ### 🔧 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourname/fast_api_structure.git
+git clone https://github.com/soyvitoupro/fast_api_structure.git
 
 ```
 
